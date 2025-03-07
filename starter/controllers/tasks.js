@@ -1,5 +1,5 @@
 const getAllTasks =(req,res)=>{
-    res.send("All Tasks Are Here")
+    res.send("All Tasks  Are  ready Here")
 }
 const createTask =(req,res)=>{
     res.json(req.body)
