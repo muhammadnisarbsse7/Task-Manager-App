@@ -10,7 +10,7 @@ const getTask =(req,res)=>{
 }
 
 const updateTask =(req,res)=>{
-    res.send("Update Task are upload here")
+    res.send("Update Task  is ready")
 }
 
 const deleteTask =(req,res)=>{
