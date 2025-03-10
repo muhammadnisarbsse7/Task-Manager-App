@@ -10,7 +10,7 @@ const getTask =(req,res)=>{
 }
 
 const updateTask =(req,res)=>{
-    res.send("Update Task  is ready")
+    res.send("Update Task  is ready to fly")
 }
 
 const deleteTask =(req,res)=>{
